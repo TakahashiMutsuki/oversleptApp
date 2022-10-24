@@ -10,7 +10,7 @@ import androidx.navigation.ui.setupWithNavController
 import com.example.overslept.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-
+//git用コメント
     private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
